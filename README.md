@@ -1,4 +1,4 @@
-# Blackjack
+# Blackjack (CLI)
 
 ## Summary
 This Python script is a text-based implementation of the classic card game Blackjack (also known as 21). The game allows the player to compete against a dealer, with the goal of achieving a hand value as close to 21 as possible without exceeding it. The game includes features such as handling Aces (which can be worth 1 or 11), dealer logic for hitting or standing, and win/lose conditions. The game also supports replayability, allowing the player to play multiple rounds.
