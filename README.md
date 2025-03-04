@@ -28,4 +28,5 @@ This Python script is a text-based implementation of the classic card game Black
 ## Running the Game
 To run the game, simply execute the script in your Python environment:
 ```bash
-python blackjack_game.py
+python main.py
+```
