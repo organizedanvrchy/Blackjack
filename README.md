@@ -23,7 +23,7 @@ This Python script is a text-based implementation of the classic card game Black
 
 ## Requirements
 - Python 3.x
-- The `art` module (for displaying the game logo).
+- The `art` module pulled from `art.py` file (for displaying the game logo).
 
 ## Running the Game
 To run the game, simply execute the script in your Python environment:
